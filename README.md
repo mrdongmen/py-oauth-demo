@@ -5,8 +5,8 @@
 
 ## 安装运行
 ```
-git clone 
-cd 
+git clone https://github.com/mrdongmen/py-oauth-demo.git
+cd py-oauth-demo
 python -m venv venv
 source venv/bin/activate
 pip install -r requirement
